@@ -1,3 +1,6 @@
+# Ignore bins
+vpnbook-client
+
 # Sensitive info
 auth.txt
 
