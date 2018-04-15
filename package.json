@@ -1,0 +1,33 @@
+{
+  "name": "vpnbook-client",
+  "version": "1.0.0",
+  "description": "Automatically connects to vpn in most secure fashion",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "node-openvpn": "^0.1.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyIsaak/vpnbook-client.git"
+  },
+  "keywords": [
+    "vpn",
+    "vpnbook",
+    "vpnbook-autoconnector",
+    "vpn-client",
+    "vpnfree"
+  ],
+  "author": "Isaak Eriksson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MyIsaak/vpnbook-client/issues"
+  },
+  "homepage": "https://github.com/MyIsaak/vpnbook-client#readme"
+}
